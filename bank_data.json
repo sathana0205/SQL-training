@@ -1,0 +1,67 @@
+[
+    {
+        "account_holder": "kani",
+        "pin": "7181",
+        "balance": 5000
+    },
+    {
+        "account_holder": "prithi",
+        "pin": "3456",
+        "balance": 900
+    },
+    {
+        "account_holder": "kani",
+        "pin": "7181",
+        "balance": 500
+    },
+    {
+        "account_holder": "kani",
+        "pin": "2005",
+        "balance": 900
+    },
+    {
+        "account_holder": "janani",
+        "pin": "2345",
+        "balance": 100
+    },
+    {
+        "account_holder": "prathab",
+        "pin": "1234",
+        "balance": 100.0
+    },
+    {
+        "account_holder": "prathab",
+        "pin": "1234",
+        "balance": 100.0
+    },
+    {
+        "account_holder": "shalini",
+        "pin": "9087",
+        "balance": 100.0
+    },
+    {
+        "account_holder": "shalini",
+        "pin": "9087",
+        "balance": 100.0
+    },
+    {
+        "account_holder": "nikil",
+        "pin": "1356",
+        "balance": 200.0
+    },
+    {
+        "account_holder": "nikil",
+        "pin": "1356",
+        "balance": 200.0
+    },
+    {
+        "account_holder": "janani",
+        "pin": "5678",
+        "balance": 800.0
+    },
+    {
+        "account_holder": "janani",
+        "pin": "5678",
+        "balance": 800.0
+    }
+]
